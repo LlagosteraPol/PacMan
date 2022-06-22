@@ -1,0 +1,2333 @@
+# depslib dependency file v1.0
+1445368756 source:/home/carol/Descargas/Pacman/Block.cpp
+	<utility>
+
+1445368895 source:/home/carol/Descargas/Pacman/PacmanMapAlg.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<utility>
+	<vector>
+	<iostream>
+	<time.h>
+	<GL/glut.h>
+	"PacmanResources.h"
+
+1445446938 /home/carol/Descargas/Pacman/PacmanResources.h
+
+1445508419 source:/home/pol/Documents/Projectes/PacmanV2/Block.cpp
+	<utility>
+
+1445509585 source:/home/pol/Documents/Projectes/PacmanV2/PacmanGuy.cpp
+
+1445508705 source:/home/pol/Documents/Projectes/PacmanV2/PacmanMapAlg.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<utility>
+	<vector>
+	<iostream>
+	<time.h>
+	<GL/glut.h>
+	"PacmanResources.h"
+
+1445512352 /home/pol/Documents/Projectes/PacmanV2/PacmanResources.h
+
+1445509585 source:/home/pol/Documents/Projectes/PacmanV2/Ghost.cpp
+
+1445517058 source:/home/pol/Documents/Projectes/PacmanV2/Main.cpp
+	<vector>
+	"MapAlgorithm.h"
+	"Block.h"
+
+1445517385 source:/home/pol/Documents/Projectes/PacmanV2/MapAlgorithm.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<utility>
+	<vector>
+	<iostream>
+	<time.h>
+	<GL/glut.h>
+	"Block.h"
+
+1445512451 /home/pol/Documents/Projectes/PacmanV2/Block.h
+
+1445517385 /home/pol/Documents/Projectes/PacmanV2/MapAlgorithm.h
+	<vector>
+	"Block.h"
+
+1446300801 source:/home/pol/Documents/Projectes/PacmanV3/Block.cpp
+	<utility>
+
+1446298899 source:/home/pol/Documents/Projectes/PacmanV3/Ghost.cpp
+	<utility>
+	"gameResources.h"
+
+1446222138 source:/home/pol/Documents/Projectes/PacmanV3/MapAlgorithm.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<utility>
+	<vector>
+	<iostream>
+	<time.h>
+	"Block.h"
+
+1446297898 /home/pol/Documents/Projectes/PacmanV3/Block.h
+
+1446300301 source:/home/pol/Documents/Projectes/PacmanV3/PacmanGuy.cpp
+	<vector>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+
+1446300407 source:/home/pol/Documents/Projectes/PacmanV3/Main.cpp
+	<stdio.h>
+	<vector>
+	"MapAlgorithm.h"
+	"Block.h"
+	"PacmanGuy.h"
+	"gameResources.h"
+	<GL/glut.h>
+
+1446206266 /home/pol/Documents/Projectes/PacmanV3/MapAlgorithm.h
+	<vector>
+	"Block.h"
+
+1446299013 /home/pol/Documents/Projectes/PacmanV3/gameResources.h
+
+1446300367 /home/pol/Documents/Projectes/PacmanV3/PacmanGuy.h
+	<vector>
+	"gameResources.h"
+	"Block.h"
+
+1446300801 source:/home/carol/Descargas/PacmanV3/Block.cpp
+	<utility>
+
+1446298899 source:/home/carol/Descargas/PacmanV3/Ghost.cpp
+	<utility>
+	"gameResources.h"
+
+1446299013 /home/carol/Descargas/PacmanV3/gameResources.h
+
+1446491613 source:/home/carol/Descargas/PacmanV3/Main.cpp
+	<stdio.h>
+	<vector>
+	"MapAlgorithm.h"
+	"Block.h"
+	"PacmanGuy.h"
+	"gameResources.h"
+	<GL/glut.h>
+
+1446206266 /home/carol/Descargas/PacmanV3/MapAlgorithm.h
+	<vector>
+	"Block.h"
+
+1446297898 /home/carol/Descargas/PacmanV3/Block.h
+
+1446300367 /home/carol/Descargas/PacmanV3/PacmanGuy.h
+	<vector>
+	"gameResources.h"
+	"Block.h"
+
+1446222138 source:/home/carol/Descargas/PacmanV3/MapAlgorithm.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<utility>
+	<vector>
+	<iostream>
+	<time.h>
+	"Block.h"
+
+1446300938 source:/home/carol/Descargas/PacmanV3/PacmanGuy.cpp
+	<vector>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+
+1446300801 source:/home/pol/Documents/Projectes/PacmanV3_2/Block.cpp
+	<utility>
+
+1446298899 source:/home/pol/Documents/Projectes/PacmanV3_2/Ghost.cpp
+	<utility>
+	"gameResources.h"
+
+1446299013 /home/pol/Documents/Projectes/PacmanV3_2/gameResources.h
+
+1446568877 source:/home/pol/Documents/Projectes/PacmanV3_2/MapAlgorithm.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<utility>
+	<vector>
+	<iostream>
+	<time.h>
+	"Block.h"
+
+1446297898 /home/pol/Documents/Projectes/PacmanV3_2/Block.h
+
+1446571023 source:/home/pol/Documents/Projectes/PacmanV3_2/PacmanGuy.cpp
+	<stdio.h>
+	<vector>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+
+1446570974 source:/home/pol/Documents/Projectes/PacmanV3_2/Main.cpp
+	<stdio.h>
+	<vector>
+	"MapAlgorithm.h"
+	"Block.h"
+	"PacmanGuy.h"
+	"gameResources.h"
+	<GL/glut.h>
+
+1446206266 /home/pol/Documents/Projectes/PacmanV3_2/MapAlgorithm.h
+	<vector>
+	"Block.h"
+
+1446568192 /home/pol/Documents/Projectes/PacmanV3_2/PacmanGuy.h
+	<vector>
+	"gameResources.h"
+	"Block.h"
+
+1446300801 source:/home/carol/Descargas/PacmanV3_3/Block.cpp
+	<utility>
+
+1446298899 source:/home/carol/Descargas/PacmanV3_3/Ghost.cpp
+	<utility>
+	"gameResources.h"
+
+1446299013 /home/carol/Descargas/PacmanV3_3/gameResources.h
+
+1446582123 source:/home/carol/Descargas/PacmanV3_3/MapAlgorithm.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<utility>
+	<vector>
+	<iostream>
+	<time.h>
+	"Block.h"
+
+1446582677 /home/carol/Descargas/PacmanV3_3/Block.h
+
+1446582677 source:/home/carol/Descargas/PacmanV3_3/PacmanGuy.cpp
+	<stdio.h>
+	<vector>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+
+1446582358 source:/home/carol/Descargas/PacmanV3_3/Main.cpp
+	<stdio.h>
+	<vector>
+	"MapAlgorithm.h"
+	"Block.h"
+	"PacmanGuy.h"
+	"gameResources.h"
+	<GL/glut.h>
+
+1446206266 /home/carol/Descargas/PacmanV3_3/MapAlgorithm.h
+	<vector>
+	"Block.h"
+
+1446568192 /home/carol/Descargas/PacmanV3_3/PacmanGuy.h
+	<vector>
+	"gameResources.h"
+	"Block.h"
+
+1446300801 source:/home/pol/Documents/Projectes/PacmanV3_4/Block.cpp
+	<utility>
+
+1446634003 source:/home/pol/Documents/Projectes/PacmanV3_4/Ghost.cpp
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+
+1446299013 /home/pol/Documents/Projectes/PacmanV3_4/gameResources.h
+
+1446582123 source:/home/pol/Documents/Projectes/PacmanV3_4/MapAlgorithm.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<utility>
+	<vector>
+	<iostream>
+	<time.h>
+	"Block.h"
+
+1446582677 /home/pol/Documents/Projectes/PacmanV3_4/Block.h
+
+1446634253 source:/home/pol/Documents/Projectes/PacmanV3_4/PacmanGuy.cpp
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+
+1446634434 source:/home/pol/Documents/Projectes/PacmanV3_4/Main.cpp
+	<stdio.h>
+	<vector>
+	"MapAlgorithm.h"
+	"Block.h"
+	"PacmanGuy.h"
+	"Ghost.h"
+	"gameResources.h"
+	<GL/glut.h>
+
+1446206266 /home/pol/Documents/Projectes/PacmanV3_4/MapAlgorithm.h
+	<vector>
+	"Block.h"
+
+1446634253 /home/pol/Documents/Projectes/PacmanV3_4/PacmanGuy.h
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+
+1446634128 /home/pol/Documents/Projectes/PacmanV3_4/Ghost.h
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+
+1446300801 source:/home/pol/Documents/Projectes/PacmanV3_5/Block.cpp
+	<utility>
+
+1446640290 source:/home/pol/Documents/Projectes/PacmanV3_5/Ghost.cpp
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+
+1446636665 /home/pol/Documents/Projectes/PacmanV3_5/gameResources.h
+
+1446582677 /home/pol/Documents/Projectes/PacmanV3_5/Block.h
+
+1446640315 source:/home/pol/Documents/Projectes/PacmanV3_5/Main.cpp
+	<stdio.h>
+	<vector>
+	"MapAlgorithm.h"
+	"Block.h"
+	"PacmanGuy.h"
+	"Ghost.h"
+	"gameResources.h"
+	<GL/glut.h>
+
+1446637036 /home/pol/Documents/Projectes/PacmanV3_5/MapAlgorithm.h
+	<vector>
+	"Block.h"
+
+1446635175 /home/pol/Documents/Projectes/PacmanV3_5/PacmanGuy.h
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+
+1446640290 /home/pol/Documents/Projectes/PacmanV3_5/Ghost.h
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+
+1446637914 source:/home/pol/Documents/Projectes/PacmanV3_5/MapAlgorithm.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<utility>
+	<vector>
+	<iostream>
+	<time.h>
+	"Block.h"
+
+1446640575 source:/home/pol/Documents/Projectes/PacmanV3_5/PacmanGuy.cpp
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+
+1446300801 source:/home/pol/Documents/Projectes/PacmanV3Base/Block.cpp
+	<utility>
+
+1446640290 source:/home/pol/Documents/Projectes/PacmanV3Base/Ghost.cpp
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+
+1446636665 /home/pol/Documents/Projectes/PacmanV3Base/gameResources.h
+
+1446582677 /home/pol/Documents/Projectes/PacmanV3Base/Block.h
+
+1446637914 source:/home/pol/Documents/Projectes/PacmanV3Base/MapAlgorithm.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<utility>
+	<vector>
+	<iostream>
+	<time.h>
+	"Block.h"
+
+1446640575 source:/home/pol/Documents/Projectes/PacmanV3Base/PacmanGuy.cpp
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+
+1446652935 source:/home/pol/Documents/Projectes/PacmanV3Base/Main.cpp
+	<stdio.h>
+	<vector>
+	"MapAlgorithm.h"
+	"Block.h"
+	"PacmanGuy.h"
+	"Ghost.h"
+	"gameResources.h"
+	<GL/glut.h>
+
+1446637036 /home/pol/Documents/Projectes/PacmanV3Base/MapAlgorithm.h
+	<vector>
+	"Block.h"
+
+1446640622 /home/pol/Documents/Projectes/PacmanV3Base/PacmanGuy.h
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+
+1446640290 /home/pol/Documents/Projectes/PacmanV3Base/Ghost.h
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+
+1446300801 source:/home/pol/Documents/Projectes/PacmanV4/Block.cpp
+	<utility>
+
+1446655909 source:/home/pol/Documents/Projectes/PacmanV4/Ghost.cpp
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+
+1446636665 /home/pol/Documents/Projectes/PacmanV4/gameResources.h
+
+1446582677 /home/pol/Documents/Projectes/PacmanV4/Block.h
+
+1446656052 source:/home/pol/Documents/Projectes/PacmanV4/Main.cpp
+	<stdio.h>
+	<vector>
+	"MapAlgorithm.h"
+	"Block.h"
+	"PacmanGuy.h"
+	"Ghost.h"
+	"gameResources.h"
+	<GL/glut.h>
+
+1446637036 /home/pol/Documents/Projectes/PacmanV4/MapAlgorithm.h
+	<vector>
+	"Block.h"
+
+1446654368 /home/pol/Documents/Projectes/PacmanV4/PacmanGuy.h
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+
+1446656020 /home/pol/Documents/Projectes/PacmanV4/Ghost.h
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+
+1446637914 source:/home/pol/Documents/Projectes/PacmanV4/MapAlgorithm.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<utility>
+	<vector>
+	<iostream>
+	<time.h>
+	"Block.h"
+
+1446654332 source:/home/pol/Documents/Projectes/PacmanV4/PacmanGuy.cpp
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+
+1446920649 source:/home/carol/Descargas/PacmanV4/Block.cpp
+	<utility>
+
+1446655909 source:/home/carol/Descargas/PacmanV4/Ghost.cpp
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+
+1446636665 /home/carol/Descargas/PacmanV4/gameResources.h
+
+1446920455 /home/carol/Descargas/PacmanV4/Block.h
+
+1447024068 source:/home/carol/Descargas/PacmanV4/Main.cpp
+	<stdio.h>
+	<vector>
+	<math.h>
+	"MapAlgorithm.h"
+	"Block.h"
+	"PacmanGuy.h"
+	"Ghost.h"
+	"gameResources.h"
+	<GL/glut.h>
+
+1446637036 /home/carol/Descargas/PacmanV4/MapAlgorithm.h
+	<vector>
+	"Block.h"
+
+1447017841 /home/carol/Descargas/PacmanV4/PacmanGuy.h
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+
+1446656020 /home/carol/Descargas/PacmanV4/Ghost.h
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+
+1446637914 source:/home/carol/Descargas/PacmanV4/MapAlgorithm.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<utility>
+	<vector>
+	<iostream>
+	<time.h>
+	"Block.h"
+
+1447025528 source:/home/carol/Descargas/PacmanV4/PacmanGuy.cpp
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+
+1446920649 source:/home/carol/Descargas/PacmanV5/Block.cpp
+	<utility>
+
+1446655909 source:/home/carol/Descargas/PacmanV5/Ghost.cpp
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+
+1446636665 /home/carol/Descargas/PacmanV5/gameResources.h
+
+1446920455 /home/carol/Descargas/PacmanV5/Block.h
+
+1447095143 source:/home/carol/Descargas/PacmanV5/Main.cpp
+	<stdio.h>
+	<vector>
+	<math.h>
+	"MapAlgorithm.h"
+	"Block.h"
+	"PacmanGuy.h"
+	"Ghost.h"
+	"gameResources.h"
+	<GL/glut.h>
+
+1446637036 /home/carol/Descargas/PacmanV5/MapAlgorithm.h
+	<vector>
+	"Block.h"
+
+1447095101 /home/carol/Descargas/PacmanV5/PacmanGuy.h
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+
+1446656020 /home/carol/Descargas/PacmanV5/Ghost.h
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+
+1446637914 source:/home/carol/Descargas/PacmanV5/MapAlgorithm.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<utility>
+	<vector>
+	<iostream>
+	<time.h>
+	"Block.h"
+
+1447099518 source:/home/carol/Descargas/PacmanV5/PacmanGuy.cpp
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+
+1446920649 source:/home/pol/Documents/Projectes/PacmanV5_2/Block.cpp
+	<utility>
+
+1447244243 source:/home/pol/Documents/Projectes/PacmanV5_2/Ghost.cpp
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+	<time.h>
+
+1447242161 /home/pol/Documents/Projectes/PacmanV5_2/gameResources.h
+
+1446920455 /home/pol/Documents/Projectes/PacmanV5_2/Block.h
+
+1447245639 source:/home/pol/Documents/Projectes/PacmanV5_2/Main.cpp
+	<stdio.h>
+	<vector>
+	<math.h>
+	"MapAlgorithm.h"
+	"Block.h"
+	"PacmanGuy.h"
+	"Ghost.h"
+	"gameResources.h"
+	<GL/glut.h>
+
+1446637036 /home/pol/Documents/Projectes/PacmanV5_2/MapAlgorithm.h
+	<vector>
+	"Block.h"
+
+1447245796 /home/pol/Documents/Projectes/PacmanV5_2/PacmanGuy.h
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+
+1447242652 /home/pol/Documents/Projectes/PacmanV5_2/Ghost.h
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+
+1446637914 source:/home/pol/Documents/Projectes/PacmanV5_2/MapAlgorithm.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<utility>
+	<vector>
+	<iostream>
+	<time.h>
+	"Block.h"
+
+1447245986 source:/home/pol/Documents/Projectes/PacmanV5_2/PacmanGuy.cpp
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+
+1446920649 source:/home/pol/Documents/Projectes/PacmanV6_InProgress/Block.cpp
+	<utility>
+
+1447254326 source:/home/pol/Documents/Projectes/PacmanV6_InProgress/Ghost.cpp
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+	<time.h>
+
+1447242161 /home/pol/Documents/Projectes/PacmanV6_InProgress/gameResources.h
+
+1446920455 /home/pol/Documents/Projectes/PacmanV6_InProgress/Block.h
+
+1447250932 source:/home/pol/Documents/Projectes/PacmanV6_InProgress/Main.cpp
+	<stdio.h>
+	<vector>
+	<math.h>
+	"MapAlgorithm.h"
+	"Block.h"
+	"PacmanGuy.h"
+	"Ghost.h"
+	"gameResources.h"
+	<GL/glut.h>
+
+1446637036 /home/pol/Documents/Projectes/PacmanV6_InProgress/MapAlgorithm.h
+	<vector>
+	"Block.h"
+
+1447245796 /home/pol/Documents/Projectes/PacmanV6_InProgress/PacmanGuy.h
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+
+1447242652 /home/pol/Documents/Projectes/PacmanV6_InProgress/Ghost.h
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+
+1446637914 source:/home/pol/Documents/Projectes/PacmanV6_InProgress/MapAlgorithm.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<utility>
+	<vector>
+	<iostream>
+	<time.h>
+	"Block.h"
+
+1447254326 source:/home/pol/Documents/Projectes/PacmanV6_InProgress/PacmanGuy.cpp
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+
+1446920649 source:/home/pol/Documents/Projectes/PacmanV8/Block.cpp
+	<utility>
+
+1447337160 source:/home/pol/Documents/Projectes/PacmanV8/Ghost.cpp
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+	<time.h>
+
+1447338497 /home/pol/Documents/Projectes/PacmanV8/gameResources.h
+
+1446920455 /home/pol/Documents/Projectes/PacmanV8/Block.h
+
+1446637914 source:/home/pol/Documents/Projectes/PacmanV8/MapAlgorithm.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<utility>
+	<vector>
+	<iostream>
+	<time.h>
+	"Block.h"
+
+1447339001 source:/home/pol/Documents/Projectes/PacmanV8/PacmanGuy.cpp
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+
+1447339001 source:/home/pol/Documents/Projectes/PacmanV8/Main.cpp
+	<stdio.h>
+	<vector>
+	<math.h>
+	"MapAlgorithm.h"
+	"Block.h"
+	"PacmanGuy.h"
+	"Ghost.h"
+	"gameResources.h"
+	<GL/glut.h>
+
+1446637036 /home/pol/Documents/Projectes/PacmanV8/MapAlgorithm.h
+	<vector>
+	"Block.h"
+
+1447323311 /home/pol/Documents/Projectes/PacmanV8/PacmanGuy.h
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+
+1447326809 /home/pol/Documents/Projectes/PacmanV8/Ghost.h
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+
+1446920649 source:/home/pol/Documents/Projectes/Pacman_CarolinaRomeuPolLlagostera/Block.cpp
+	<utility>
+
+1447432591 source:/home/pol/Documents/Projectes/Pacman_CarolinaRomeuPolLlagostera/Ghost.cpp
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+	<time.h>
+
+1447339392 /home/pol/Documents/Projectes/Pacman_CarolinaRomeuPolLlagostera/gameResources.h
+
+1446920455 /home/pol/Documents/Projectes/Pacman_CarolinaRomeuPolLlagostera/Block.h
+
+1447419335 source:/home/pol/Documents/Projectes/Pacman_CarolinaRomeuPolLlagostera/Main.cpp
+	<stdio.h>
+	<vector>
+	<math.h>
+	"MapAlgorithm.h"
+	"Block.h"
+	"PacmanGuy.h"
+	"Ghost.h"
+	"gameResources.h"
+	<GL/glut.h>
+
+1446637036 /home/pol/Documents/Projectes/Pacman_CarolinaRomeuPolLlagostera/MapAlgorithm.h
+	<vector>
+	"Block.h"
+
+1447417621 /home/pol/Documents/Projectes/Pacman_CarolinaRomeuPolLlagostera/PacmanGuy.h
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+
+1447415432 /home/pol/Documents/Projectes/Pacman_CarolinaRomeuPolLlagostera/Ghost.h
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+
+1446637914 source:/home/pol/Documents/Projectes/Pacman_CarolinaRomeuPolLlagostera/MapAlgorithm.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<utility>
+	<vector>
+	<iostream>
+	<time.h>
+	"Block.h"
+
+1447417551 source:/home/pol/Documents/Projectes/Pacman_CarolinaRomeuPolLlagostera/PacmanGuy.cpp
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+
+1446920649 source:/home/pol/Documents/Projectes/Pacman2D/Block.cpp
+	<utility>
+
+1447432591 source:/home/pol/Documents/Projectes/Pacman2D/Ghost.cpp
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+	<time.h>
+
+1447339392 /home/pol/Documents/Projectes/Pacman2D/gameResources.h
+
+1446920455 /home/pol/Documents/Projectes/Pacman2D/Block.h
+
+1446637914 source:/home/pol/Documents/Projectes/Pacman2D/MapAlgorithm.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<utility>
+	<vector>
+	<iostream>
+	<time.h>
+	"Block.h"
+
+1447439776 source:/home/pol/Documents/Projectes/Pacman2D/PacmanGuy.cpp
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+
+1447439732 source:/home/pol/Documents/Projectes/Pacman2D/Main.cpp
+	<stdio.h>
+	<vector>
+	<math.h>
+	"MapAlgorithm.h"
+	"Block.h"
+	"PacmanGuy.h"
+	"Ghost.h"
+	"gameResources.h"
+	<GL/glut.h>
+
+1446637036 /home/pol/Documents/Projectes/Pacman2D/MapAlgorithm.h
+	<vector>
+	"Block.h"
+
+1447417621 /home/pol/Documents/Projectes/Pacman2D/PacmanGuy.h
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+
+1447415432 /home/pol/Documents/Projectes/Pacman2D/Ghost.h
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+
+1446920649 source:/home/pol/Documents/Projectes/Pacman3D_V1/Block.cpp
+	<utility>
+
+1447432591 source:/home/pol/Documents/Projectes/Pacman3D_V1/Ghost.cpp
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+	<time.h>
+
+1447339392 /home/pol/Documents/Projectes/Pacman3D_V1/gameResources.h
+
+1446920455 /home/pol/Documents/Projectes/Pacman3D_V1/Block.h
+
+1446637914 source:/home/pol/Documents/Projectes/Pacman3D_V1/MapAlgorithm.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<utility>
+	<vector>
+	<iostream>
+	<time.h>
+	"Block.h"
+
+1447439776 source:/home/pol/Documents/Projectes/Pacman3D_V1/PacmanGuy.cpp
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+
+1448643237 source:/home/pol/Documents/Projectes/Pacman3D_V1/Main.cpp
+	<stdio.h>
+	<vector>
+	<math.h>
+	"MapAlgorithm.h"
+	"Block.h"
+	"PacmanGuy.h"
+	"Ghost.h"
+	"gameResources.h"
+	<GL/glut.h>
+
+1446637036 /home/pol/Documents/Projectes/Pacman3D_V1/MapAlgorithm.h
+	<vector>
+	"Block.h"
+
+1447417621 /home/pol/Documents/Projectes/Pacman3D_V1/PacmanGuy.h
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+
+1447415432 /home/pol/Documents/Projectes/Pacman3D_V1/Ghost.h
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+
+1446920649 source:/home/carol/Descargas/Pacman3D_Base/Block.cpp
+	<utility>
+
+1447432591 source:/home/carol/Descargas/Pacman3D_Base/Ghost.cpp
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+	<time.h>
+
+1447339392 /home/carol/Descargas/Pacman3D_Base/gameResources.h
+
+1446920455 /home/carol/Descargas/Pacman3D_Base/Block.h
+
+1446637914 source:/home/carol/Descargas/Pacman3D_Base/MapAlgorithm.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<utility>
+	<vector>
+	<iostream>
+	<time.h>
+	"Block.h"
+
+1447439776 source:/home/carol/Descargas/Pacman3D_Base/PacmanGuy.cpp
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+
+1448735722 source:/home/carol/Descargas/Pacman3D_Base/Main.cpp
+	<stdio.h>
+	<vector>
+	<math.h>
+	<sstream>
+	<iostream>
+	<stdlib.h>
+	"jpeglib.h"
+	"MapAlgorithm.h"
+	"Block.h"
+	"PacmanGuy.h"
+	"Ghost.h"
+	"gameResources.h"
+	<GL/glut.h>
+
+1446637036 /home/carol/Descargas/Pacman3D_Base/MapAlgorithm.h
+	<vector>
+	"Block.h"
+
+1447417621 /home/carol/Descargas/Pacman3D_Base/PacmanGuy.h
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+
+1447415432 /home/carol/Descargas/Pacman3D_Base/Ghost.h
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+
+1446920649 source:/home/pol/Documents/Projectes/Pacman3D_Textures/Block.cpp
+	<utility>
+
+1447432591 source:/home/pol/Documents/Projectes/Pacman3D_Textures/Ghost.cpp
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+	<time.h>
+
+1447339392 /home/pol/Documents/Projectes/Pacman3D_Textures/gameResources.h
+
+1446920455 /home/pol/Documents/Projectes/Pacman3D_Textures/Block.h
+
+1448797402 source:/home/pol/Documents/Projectes/Pacman3D_Textures/Main.cpp
+	<stdio.h>
+	<vector>
+	<math.h>
+	<sstream>
+	<iostream>
+	<stdlib.h>
+	"jpeglib.h"
+	"MapAlgorithm.h"
+	"Block.h"
+	"PacmanGuy.h"
+	"Ghost.h"
+	"gameResources.h"
+	<GL/glut.h>
+
+1446637036 /home/pol/Documents/Projectes/Pacman3D_Textures/MapAlgorithm.h
+	<vector>
+	"Block.h"
+
+1447417621 /home/pol/Documents/Projectes/Pacman3D_Textures/PacmanGuy.h
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+
+1447415432 /home/pol/Documents/Projectes/Pacman3D_Textures/Ghost.h
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+
+1446637914 source:/home/pol/Documents/Projectes/Pacman3D_Textures/MapAlgorithm.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<utility>
+	<vector>
+	<iostream>
+	<time.h>
+	"Block.h"
+
+1447439776 source:/home/pol/Documents/Projectes/Pacman3D_Textures/PacmanGuy.cpp
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+
+1446920649 source:/home/pol/Documents/Projectes/Pacman3D_Textures_Base/Block.cpp
+	<utility>
+
+1447432591 source:/home/pol/Documents/Projectes/Pacman3D_Textures_Base/Ghost.cpp
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+	<time.h>
+
+1447339392 /home/pol/Documents/Projectes/Pacman3D_Textures_Base/gameResources.h
+
+1446920455 /home/pol/Documents/Projectes/Pacman3D_Textures_Base/Block.h
+
+1451321655 source:/home/pol/Documents/Projectes/Pacman3D_Textures_Base/Main.cpp
+	<stdio.h>
+	<vector>
+	<math.h>
+	<sstream>
+	<iostream>
+	<stdlib.h>
+	"jpeglib.h"
+	"MapAlgorithm.h"
+	"Block.h"
+	"PacmanGuy.h"
+	"Ghost.h"
+	"gameResources.h"
+	<GL/glut.h>
+
+1446637036 /home/pol/Documents/Projectes/Pacman3D_Textures_Base/MapAlgorithm.h
+	<vector>
+	"Block.h"
+
+1447417621 /home/pol/Documents/Projectes/Pacman3D_Textures_Base/PacmanGuy.h
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+
+1447415432 /home/pol/Documents/Projectes/Pacman3D_Textures_Base/Ghost.h
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+
+1446637914 source:/home/pol/Documents/Projectes/Pacman3D_Textures_Base/MapAlgorithm.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<utility>
+	<vector>
+	<iostream>
+	<time.h>
+	"Block.h"
+
+1447439776 source:/home/pol/Documents/Projectes/Pacman3D_Textures_Base/PacmanGuy.cpp
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+
+1446920649 source:/home/carol/Descargas/Pacman3D_Lights/Block.cpp
+	<utility>
+
+1447432591 source:/home/carol/Descargas/Pacman3D_Lights/Ghost.cpp
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+	<time.h>
+
+1447339392 /home/carol/Descargas/Pacman3D_Lights/gameResources.h
+
+1446920455 /home/carol/Descargas/Pacman3D_Lights/Block.h
+
+1451850344 source:/home/carol/Descargas/Pacman3D_Lights/Main.cpp
+	<stdio.h>
+	<vector>
+	<math.h>
+	<sstream>
+	<iostream>
+	<stdlib.h>
+	"jpeglib.h"
+	"MapAlgorithm.h"
+	"Block.h"
+	"PacmanGuy.h"
+	"Ghost.h"
+	"gameResources.h"
+	<GL/glut.h>
+
+1446637036 /home/carol/Descargas/Pacman3D_Lights/MapAlgorithm.h
+	<vector>
+	"Block.h"
+
+1447417621 /home/carol/Descargas/Pacman3D_Lights/PacmanGuy.h
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+
+1447415432 /home/carol/Descargas/Pacman3D_Lights/Ghost.h
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+
+1446637914 source:/home/carol/Descargas/Pacman3D_Lights/MapAlgorithm.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<utility>
+	<vector>
+	<iostream>
+	<time.h>
+	"Block.h"
+
+1447439776 source:/home/carol/Descargas/Pacman3D_Lights/PacmanGuy.cpp
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+
+1446920649 source:/home/carol/Descargas/Pacman3D_Lights_V2/Block.cpp
+	<utility>
+
+1447432591 source:/home/carol/Descargas/Pacman3D_Lights_V2/Ghost.cpp
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+	<time.h>
+
+1447339392 /home/carol/Descargas/Pacman3D_Lights_V2/gameResources.h
+
+1446920455 /home/carol/Descargas/Pacman3D_Lights_V2/Block.h
+
+1446637914 source:/home/carol/Descargas/Pacman3D_Lights_V2/MapAlgorithm.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<utility>
+	<vector>
+	<iostream>
+	<time.h>
+	"Block.h"
+
+1447439776 source:/home/carol/Descargas/Pacman3D_Lights_V2/PacmanGuy.cpp
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+
+1452018091 source:/home/carol/Descargas/Pacman3D_Lights_V2/Main.cpp
+	<stdio.h>
+	<vector>
+	<math.h>
+	<sstream>
+	<iostream>
+	<stdlib.h>
+	"jpeglib.h"
+	"MapAlgorithm.h"
+	"Block.h"
+	"PacmanGuy.h"
+	"Ghost.h"
+	"gameResources.h"
+	<GL/glut.h>
+
+1446637036 /home/carol/Descargas/Pacman3D_Lights_V2/MapAlgorithm.h
+	<vector>
+	"Block.h"
+
+1447417621 /home/carol/Descargas/Pacman3D_Lights_V2/PacmanGuy.h
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+
+1447415432 /home/carol/Descargas/Pacman3D_Lights_V2/Ghost.h
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+
+1446920649 source:/home/carol/Descargas/Pacman3D_Lights_V3/Block.cpp
+	<utility>
+
+1452007453 source:/home/carol/Descargas/Pacman3D_Lights_V3/Ghost.cpp
+	<utility>
+	<vector>
+	<algorithm>
+	<string>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+	<time.h>
+
+1452007350 /home/carol/Descargas/Pacman3D_Lights_V3/gameResources.h
+
+1446920455 /home/carol/Descargas/Pacman3D_Lights_V3/Block.h
+
+1452018975 source:/home/carol/Descargas/Pacman3D_Lights_V3/Main.cpp
+	<stdio.h>
+	<vector>
+	<math.h>
+	<sstream>
+	<iostream>
+	<stdlib.h>
+	"jpeglib.h"
+	"MapAlgorithm.h"
+	"Block.h"
+	"PacmanGuy.h"
+	"Ghost.h"
+	"gameResources.h"
+	<GL/glut.h>
+
+1446637036 /home/carol/Descargas/Pacman3D_Lights_V3/MapAlgorithm.h
+	<vector>
+	"Block.h"
+
+1447417621 /home/carol/Descargas/Pacman3D_Lights_V3/PacmanGuy.h
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+
+1452006441 /home/carol/Descargas/Pacman3D_Lights_V3/Ghost.h
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+
+1446637914 source:/home/carol/Descargas/Pacman3D_Lights_V3/MapAlgorithm.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<utility>
+	<vector>
+	<iostream>
+	<time.h>
+	"Block.h"
+
+1447439776 source:/home/carol/Descargas/Pacman3D_Lights_V3/PacmanGuy.cpp
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+
+1446920649 source:/home/carol/Descargas/Pacman3D_Lights_IAReflex/Block.cpp
+	<utility>
+
+1452007453 source:/home/carol/Descargas/Pacman3D_Lights_IAReflex/Ghost.cpp
+	<utility>
+	<vector>
+	<algorithm>
+	<string>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+	<time.h>
+
+1452007350 /home/carol/Descargas/Pacman3D_Lights_IAReflex/gameResources.h
+
+1446920455 /home/carol/Descargas/Pacman3D_Lights_IAReflex/Block.h
+
+1446637914 source:/home/carol/Descargas/Pacman3D_Lights_IAReflex/MapAlgorithm.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<utility>
+	<vector>
+	<iostream>
+	<time.h>
+	"Block.h"
+
+1447439776 source:/home/carol/Descargas/Pacman3D_Lights_IAReflex/PacmanGuy.cpp
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+
+1452456970 source:/home/carol/Descargas/Pacman3D_Lights_IAReflex/Main.cpp
+	<stdio.h>
+	<unistd.h>
+	<vector>
+	<math.h>
+	<sstream>
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<string>
+	"jpeglib.h"
+	"MapAlgorithm.h"
+	"Block.h"
+	"PacmanGuy.h"
+	"Ghost.h"
+	"gameResources.h"
+	<GL/glut.h>
+
+1446637036 /home/carol/Descargas/Pacman3D_Lights_IAReflex/MapAlgorithm.h
+	<vector>
+	"Block.h"
+
+1447417621 /home/carol/Descargas/Pacman3D_Lights_IAReflex/PacmanGuy.h
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+
+1452006441 /home/carol/Descargas/Pacman3D_Lights_IAReflex/Ghost.h
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+
+1446920649 source:/home/pol/Documents/Arduino/Pacman3D_Lights_IAReflex_Sensor/Block.cpp
+	<utility>
+
+1452007453 source:/home/pol/Documents/Arduino/Pacman3D_Lights_IAReflex_Sensor/Ghost.cpp
+	<utility>
+	<vector>
+	<algorithm>
+	<string>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+	<time.h>
+
+1452007350 /home/pol/Documents/Arduino/Pacman3D_Lights_IAReflex_Sensor/gameResources.h
+
+1446920455 /home/pol/Documents/Arduino/Pacman3D_Lights_IAReflex_Sensor/Block.h
+
+1446637914 source:/home/pol/Documents/Arduino/Pacman3D_Lights_IAReflex_Sensor/MapAlgorithm.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<utility>
+	<vector>
+	<iostream>
+	<time.h>
+	"Block.h"
+
+1447439776 source:/home/pol/Documents/Arduino/Pacman3D_Lights_IAReflex_Sensor/PacmanGuy.cpp
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+
+1452860246 source:/home/pol/Documents/Arduino/Pacman3D_Lights_IAReflex_Sensor/Main.cpp
+	<stdio.h>
+	<unistd.h>
+	<vector>
+	<math.h>
+	<sstream>
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<string>
+	"jpeglib.h"
+	"MapAlgorithm.h"
+	"Block.h"
+	"PacmanGuy.h"
+	"Ghost.h"
+	"gameResources.h"
+	<GL/glut.h>
+
+1446637036 /home/pol/Documents/Arduino/Pacman3D_Lights_IAReflex_Sensor/MapAlgorithm.h
+	<vector>
+	"Block.h"
+
+1447417621 /home/pol/Documents/Arduino/Pacman3D_Lights_IAReflex_Sensor/PacmanGuy.h
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+
+1452006441 /home/pol/Documents/Arduino/Pacman3D_Lights_IAReflex_Sensor/Ghost.h
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+
+1446920649 source:/home/pol/Documents/Arduino/ArduinoPacman/Pacman3D_Lights_IAReflex_Sensor/Block.cpp
+	<utility>
+
+1452007453 source:/home/pol/Documents/Arduino/ArduinoPacman/Pacman3D_Lights_IAReflex_Sensor/Ghost.cpp
+	<utility>
+	<vector>
+	<algorithm>
+	<string>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+	<time.h>
+
+1452007350 /home/pol/Documents/Arduino/ArduinoPacman/Pacman3D_Lights_IAReflex_Sensor/gameResources.h
+
+1446920455 /home/pol/Documents/Arduino/ArduinoPacman/Pacman3D_Lights_IAReflex_Sensor/Block.h
+
+1446637914 source:/home/pol/Documents/Arduino/ArduinoPacman/Pacman3D_Lights_IAReflex_Sensor/MapAlgorithm.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<utility>
+	<vector>
+	<iostream>
+	<time.h>
+	"Block.h"
+
+1447439776 source:/home/pol/Documents/Arduino/ArduinoPacman/Pacman3D_Lights_IAReflex_Sensor/PacmanGuy.cpp
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+
+1452881804 source:/home/pol/Documents/Arduino/ArduinoPacman/Pacman3D_Lights_IAReflex_Sensor/Main.cpp
+	<stdio.h>
+	<unistd.h>
+	<vector>
+	<math.h>
+	<sstream>
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<string>
+	"jpeglib.h"
+	"MapAlgorithm.h"
+	"Block.h"
+	"PacmanGuy.h"
+	"Ghost.h"
+	"gameResources.h"
+	<GL/glut.h>
+
+1446637036 /home/pol/Documents/Arduino/ArduinoPacman/Pacman3D_Lights_IAReflex_Sensor/MapAlgorithm.h
+	<vector>
+	"Block.h"
+
+1447417621 /home/pol/Documents/Arduino/ArduinoPacman/Pacman3D_Lights_IAReflex_Sensor/PacmanGuy.h
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+
+1452006441 /home/pol/Documents/Arduino/ArduinoPacman/Pacman3D_Lights_IAReflex_Sensor/Ghost.h
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+
+1446920649 source:/home/pol/Documents/Projectes/Pacman3D_Lights_IAReflex_Sensor/Block.cpp
+	<utility>
+
+1452007453 source:/home/pol/Documents/Projectes/Pacman3D_Lights_IAReflex_Sensor/Ghost.cpp
+	<utility>
+	<vector>
+	<algorithm>
+	<string>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+	<time.h>
+
+1452007350 /home/pol/Documents/Projectes/Pacman3D_Lights_IAReflex_Sensor/gameResources.h
+
+1446920455 /home/pol/Documents/Projectes/Pacman3D_Lights_IAReflex_Sensor/Block.h
+
+1452882673 source:/home/pol/Documents/Projectes/Pacman3D_Lights_IAReflex_Sensor/Main.cpp
+	<stdio.h>
+	<unistd.h>
+	<vector>
+	<math.h>
+	<sstream>
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<string>
+	"jpeglib.h"
+	"MapAlgorithm.h"
+	"Block.h"
+	"PacmanGuy.h"
+	"Ghost.h"
+	"gameResources.h"
+	<GL/glut.h>
+
+1446637036 /home/pol/Documents/Projectes/Pacman3D_Lights_IAReflex_Sensor/MapAlgorithm.h
+	<vector>
+	"Block.h"
+
+1447417621 /home/pol/Documents/Projectes/Pacman3D_Lights_IAReflex_Sensor/PacmanGuy.h
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+
+1452006441 /home/pol/Documents/Projectes/Pacman3D_Lights_IAReflex_Sensor/Ghost.h
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+
+1446637914 source:/home/pol/Documents/Projectes/Pacman3D_Lights_IAReflex_Sensor/MapAlgorithm.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<utility>
+	<vector>
+	<iostream>
+	<time.h>
+	"Block.h"
+
+1447439776 source:/home/pol/Documents/Projectes/Pacman3D_Lights_IAReflex_Sensor/PacmanGuy.cpp
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+
+1446920649 source:/home/pol/Documents/Projectes/Pacman3D_Lights_IAReflex_Sensor_V2/Block.cpp
+	<utility>
+
+1452007453 source:/home/pol/Documents/Projectes/Pacman3D_Lights_IAReflex_Sensor_V2/Ghost.cpp
+	<utility>
+	<vector>
+	<algorithm>
+	<string>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+	<time.h>
+
+1452007350 /home/pol/Documents/Projectes/Pacman3D_Lights_IAReflex_Sensor_V2/gameResources.h
+
+1446920455 /home/pol/Documents/Projectes/Pacman3D_Lights_IAReflex_Sensor_V2/Block.h
+
+1446637914 source:/home/pol/Documents/Projectes/Pacman3D_Lights_IAReflex_Sensor_V2/MapAlgorithm.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<utility>
+	<vector>
+	<iostream>
+	<time.h>
+	"Block.h"
+
+1447439776 source:/home/pol/Documents/Projectes/Pacman3D_Lights_IAReflex_Sensor_V2/PacmanGuy.cpp
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+
+1453144985 source:/home/pol/Documents/Projectes/Pacman3D_Lights_IAReflex_Sensor_V2/Main.cpp
+	<stdio.h>
+	<unistd.h>
+	<vector>
+	<math.h>
+	<sstream>
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<string>
+	<thread>
+	"jpeglib.h"
+	"MapAlgorithm.h"
+	"Block.h"
+	"PacmanGuy.h"
+	"Ghost.h"
+	"gameResources.h"
+	<GL/glut.h>
+
+1446637036 /home/pol/Documents/Projectes/Pacman3D_Lights_IAReflex_Sensor_V2/MapAlgorithm.h
+	<vector>
+	"Block.h"
+
+1447417621 /home/pol/Documents/Projectes/Pacman3D_Lights_IAReflex_Sensor_V2/PacmanGuy.h
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+
+1452006441 /home/pol/Documents/Projectes/Pacman3D_Lights_IAReflex_Sensor_V2/Ghost.h
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+
+1446920649 source:/home/pol/Documents/Projectes/Pacman3D_ComplexGaming/Block.cpp
+	<utility>
+
+1452007453 source:/home/pol/Documents/Projectes/Pacman3D_ComplexGaming/Ghost.cpp
+	<utility>
+	<vector>
+	<algorithm>
+	<string>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+	<time.h>
+
+1452007350 /home/pol/Documents/Projectes/Pacman3D_ComplexGaming/gameResources.h
+
+1446920455 /home/pol/Documents/Projectes/Pacman3D_ComplexGaming/Block.h
+
+1453735890 source:/home/pol/Documents/Projectes/Pacman3D_ComplexGaming/MapAlgorithm.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<utility>
+	<vector>
+	<iostream>
+	<time.h>
+	"Block.h"
+
+1453916154 source:/home/pol/Documents/Projectes/Pacman3D_ComplexGaming/PacmanGuy.cpp
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+
+1453992145 source:/home/pol/Documents/Projectes/Pacman3D_ComplexGaming/Main.cpp
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<vector>
+	<math.h>
+	<sstream>
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<string>
+	<thread>
+	<algorithm>
+	"jpeglib.h"
+	<windows.h>
+	"MapAlgorithm.h"
+	"Block.h"
+	"PacmanGuy.h"
+	"Ghost.h"
+	"gameResources.h"
+	<GL/glut.h>
+
+1453735771 /home/pol/Documents/Projectes/Pacman3D_ComplexGaming/MapAlgorithm.h
+	<vector>
+	"Block.h"
+
+1453916227 /home/pol/Documents/Projectes/Pacman3D_ComplexGaming/PacmanGuy.h
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+
+1454258061 /home/pol/Documents/Projectes/Pacman3D_ComplexGaming/Ghost.h
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+
+1446920649 source:/home/carol/Descargas/Pacman3D_IA_Final_V1/Block.cpp
+	<utility>
+
+1454271262 source:/home/carol/Descargas/Pacman3D_IA_Final_V1/Main.cpp
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<vector>
+	<math.h>
+	<sstream>
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<string>
+	<thread>
+	<algorithm>
+	"jpeglib.h"
+	<windows.h>
+	"MapAlgorithm.h"
+	"Block.h"
+	"PacmanGuy.h"
+	"Ghost.h"
+	"gameResources.h"
+	<GL/glut.h>
+
+1453735771 /home/carol/Descargas/Pacman3D_IA_Final_V1/MapAlgorithm.h
+	<vector>
+	"Block.h"
+
+1446920455 /home/carol/Descargas/Pacman3D_IA_Final_V1/Block.h
+
+1453916227 /home/carol/Descargas/Pacman3D_IA_Final_V1/PacmanGuy.h
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+
+1454264939 /home/carol/Descargas/Pacman3D_IA_Final_V1/gameResources.h
+
+1454265962 /home/carol/Descargas/Pacman3D_IA_Final_V1/Ghost.h
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+
+1453735890 source:/home/carol/Descargas/Pacman3D_IA_Final_V1/MapAlgorithm.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<utility>
+	<vector>
+	<iostream>
+	<time.h>
+	"Block.h"
+
+1453916154 source:/home/carol/Descargas/Pacman3D_IA_Final_V1/PacmanGuy.cpp
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+
+1454272652 source:/home/carol/Descargas/Pacman3D_IA_Final_V1/Ghost.cpp
+	<utility>
+	<vector>
+	<algorithm>
+	<string>
+	<limits>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+	<time.h>
+	<iostream>
+
+1446920649 source:/home/pol/Documents/Projectes/Pacman3D_IA_Final_V2/Block.cpp
+	<utility>
+
+1454413717 source:/home/pol/Documents/Projectes/Pacman3D_IA_Final_V2/Main.cpp
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<vector>
+	<math.h>
+	<sstream>
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<string>
+	<thread>
+	<algorithm>
+	"jpeglib.h"
+	<windows.h>
+	"MapAlgorithm.h"
+	"Block.h"
+	"PacmanGuy.h"
+	"Ghost.h"
+	"gameResources.h"
+	<GL/glut.h>
+
+1453735771 /home/pol/Documents/Projectes/Pacman3D_IA_Final_V2/MapAlgorithm.h
+	<vector>
+	"Block.h"
+
+1446920455 /home/pol/Documents/Projectes/Pacman3D_IA_Final_V2/Block.h
+
+1453916227 /home/pol/Documents/Projectes/Pacman3D_IA_Final_V2/PacmanGuy.h
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+
+1454264939 /home/pol/Documents/Projectes/Pacman3D_IA_Final_V2/gameResources.h
+
+1454413262 /home/pol/Documents/Projectes/Pacman3D_IA_Final_V2/Ghost.h
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+
+1453735890 source:/home/pol/Documents/Projectes/Pacman3D_IA_Final_V2/MapAlgorithm.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<utility>
+	<vector>
+	<iostream>
+	<time.h>
+	"Block.h"
+
+1453916154 source:/home/pol/Documents/Projectes/Pacman3D_IA_Final_V2/PacmanGuy.cpp
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+
+1454414209 source:/home/pol/Documents/Projectes/Pacman3D_IA_Final_V2/Ghost.cpp
+	<utility>
+	<vector>
+	<algorithm>
+	<string>
+	<limits>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+	<time.h>
+	<iostream>
+
+1446920649 source:/home/pol/Documents/Projectes/Pacman3D_IA_Final_V3/Block.cpp
+	<utility>
+
+1454512594 source:/home/pol/Documents/Projectes/Pacman3D_IA_Final_V3/Main.cpp
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<vector>
+	<math.h>
+	<sstream>
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<string>
+	<thread>
+	<algorithm>
+	"jpeglib.h"
+	<windows.h>
+	"MapAlgorithm.h"
+	"Block.h"
+	"PacmanGuy.h"
+	"Ghost.h"
+	"gameResources.h"
+	<GL/glut.h>
+
+1453735771 /home/pol/Documents/Projectes/Pacman3D_IA_Final_V3/MapAlgorithm.h
+	<vector>
+	"Block.h"
+
+1446920455 /home/pol/Documents/Projectes/Pacman3D_IA_Final_V3/Block.h
+
+1453916227 /home/pol/Documents/Projectes/Pacman3D_IA_Final_V3/PacmanGuy.h
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+
+1454264939 /home/pol/Documents/Projectes/Pacman3D_IA_Final_V3/gameResources.h
+
+1454516192 /home/pol/Documents/Projectes/Pacman3D_IA_Final_V3/Ghost.h
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+
+1453735890 source:/home/pol/Documents/Projectes/Pacman3D_IA_Final_V3/MapAlgorithm.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<utility>
+	<vector>
+	<iostream>
+	<time.h>
+	"Block.h"
+
+1453916154 source:/home/pol/Documents/Projectes/Pacman3D_IA_Final_V3/PacmanGuy.cpp
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+
+1454512569 source:/home/pol/Documents/Projectes/Pacman3D_IA_Final_V3/Ghost.cpp
+	<utility>
+	<vector>
+	<algorithm>
+	<string>
+	<limits>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+	<time.h>
+	<iostream>
+
+1446920649 source:/home/pol/Documents/Projectes/Pacman3D_IA_Final_V4/Block.cpp
+	<utility>
+
+1454512594 source:/home/pol/Documents/Projectes/Pacman3D_IA_Final_V4/Main.cpp
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<vector>
+	<math.h>
+	<sstream>
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<string>
+	<thread>
+	<algorithm>
+	"jpeglib.h"
+	<windows.h>
+	"MapAlgorithm.h"
+	"Block.h"
+	"PacmanGuy.h"
+	"Ghost.h"
+	"gameResources.h"
+	<GL/glut.h>
+
+1453735771 /home/pol/Documents/Projectes/Pacman3D_IA_Final_V4/MapAlgorithm.h
+	<vector>
+	"Block.h"
+
+1446920455 /home/pol/Documents/Projectes/Pacman3D_IA_Final_V4/Block.h
+
+1453916227 /home/pol/Documents/Projectes/Pacman3D_IA_Final_V4/PacmanGuy.h
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+
+1454264939 /home/pol/Documents/Projectes/Pacman3D_IA_Final_V4/gameResources.h
+
+1454516192 /home/pol/Documents/Projectes/Pacman3D_IA_Final_V4/Ghost.h
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+
+1453735890 source:/home/pol/Documents/Projectes/Pacman3D_IA_Final_V4/MapAlgorithm.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<utility>
+	<vector>
+	<iostream>
+	<time.h>
+	"Block.h"
+
+1453916154 source:/home/pol/Documents/Projectes/Pacman3D_IA_Final_V4/PacmanGuy.cpp
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+
+1454519406 source:/home/pol/Documents/Projectes/Pacman3D_IA_Final_V4/Ghost.cpp
+	<utility>
+	<vector>
+	<algorithm>
+	<string>
+	<limits>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+	<time.h>
+	<iostream>
+
+1446920649 source:/home/carol/Descargas/Pacman3D_IA_Final_V4/Block.cpp
+	<utility>
+
+1453735890 source:/home/carol/Descargas/Pacman3D_IA_Final_V4/MapAlgorithm.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<utility>
+	<vector>
+	<iostream>
+	<time.h>
+	"Block.h"
+
+1446920455 /home/carol/Descargas/Pacman3D_IA_Final_V4/Block.h
+
+1453916154 source:/home/carol/Descargas/Pacman3D_IA_Final_V4/PacmanGuy.cpp
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+
+1454264939 /home/carol/Descargas/Pacman3D_IA_Final_V4/gameResources.h
+
+1454534233 source:/home/carol/Descargas/Pacman3D_IA_Final_V4/Ghost.cpp
+	<utility>
+	<vector>
+	<algorithm>
+	<string>
+	<limits>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+	<time.h>
+	<iostream>
+
+1454533594 source:/home/carol/Descargas/Pacman3D_IA_Final_V4/Main.cpp
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<vector>
+	<math.h>
+	<sstream>
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<string>
+	<thread>
+	<algorithm>
+	"jpeglib.h"
+	<windows.h>
+	"MapAlgorithm.h"
+	"Block.h"
+	"PacmanGuy.h"
+	"Ghost.h"
+	"gameResources.h"
+	<GL/glut.h>
+
+1453735771 /home/carol/Descargas/Pacman3D_IA_Final_V4/MapAlgorithm.h
+	<vector>
+	"Block.h"
+
+1453916227 /home/carol/Descargas/Pacman3D_IA_Final_V4/PacmanGuy.h
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+
+1454533500 /home/carol/Descargas/Pacman3D_IA_Final_V4/Ghost.h
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+
+1446920649 source:/home/carol/Descargas/Pacman3D_IA_Final/Block.cpp
+	<utility>
+
+1454541413 source:/home/carol/Descargas/Pacman3D_IA_Final/Ghost.cpp
+	<utility>
+	<vector>
+	<algorithm>
+	<string>
+	<limits>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+	<time.h>
+	<iostream>
+
+1454264939 /home/carol/Descargas/Pacman3D_IA_Final/gameResources.h
+
+1446920455 /home/carol/Descargas/Pacman3D_IA_Final/Block.h
+
+1453735890 source:/home/carol/Descargas/Pacman3D_IA_Final/MapAlgorithm.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<utility>
+	<vector>
+	<iostream>
+	<time.h>
+	"Block.h"
+
+1453916154 source:/home/carol/Descargas/Pacman3D_IA_Final/PacmanGuy.cpp
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+	<math.h>
+
+1454612804 source:/home/carol/Descargas/Pacman3D_IA_Final/Main.cpp
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<vector>
+	<math.h>
+	<sstream>
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<string>
+	<thread>
+	<algorithm>
+	"jpeglib.h"
+	<windows.h>
+	"MapAlgorithm.h"
+	"Block.h"
+	"PacmanGuy.h"
+	"Ghost.h"
+	"gameResources.h"
+	<GL/glut.h>
+
+1453735771 /home/carol/Descargas/Pacman3D_IA_Final/MapAlgorithm.h
+	<vector>
+	"Block.h"
+
+1453916227 /home/carol/Descargas/Pacman3D_IA_Final/PacmanGuy.h
+	<stdio.h>
+	<vector>
+	<string>
+	<utility>
+	"gameResources.h"
+	"Block.h"
+
+1454533500 /home/carol/Descargas/Pacman3D_IA_Final/Ghost.h
+	<utility>
+	<vector>
+	<string>
+	"gameResources.h"
+	"Block.h"
+

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Pacman" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="default">
+				<Option output="Pacman" prefix_auto="1" extension_auto="1" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option parameters="9 9" />
+				<Compiler>
+					<Add option="-Wall" />
+					<Add option="-std=c++11" />
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="glut" />
+					<Add library="GLU" />
+					<Add library="GL" />
+					<Add library="../../../../../usr/local/lib/libjpeg.a" />
+					<Add library="pthread" />
+				</Linker>
+			</Target>
+		</Build>
+		<Unit filename="Block.cpp" />
+		<Unit filename="Block.h" />
+		<Unit filename="Ghost.cpp" />
+		<Unit filename="Ghost.h" />
+		<Unit filename="Main.cpp" />
+		<Unit filename="MapAlgorithm.cpp" />
+		<Unit filename="MapAlgorithm.h" />
+		<Unit filename="PacmanGuy.cpp" />
+		<Unit filename="PacmanGuy.h" />
+		<Unit filename="gameResources.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<lib_finder disable_auto="1" />
+			<debugger>
+				<search_path add="/home/carol/Descargas/PacmanV3/" />
+			</debugger>
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

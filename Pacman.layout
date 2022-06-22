@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="default" />
+	<File name="Main.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="28825" topLine="1068" />
+		</Cursor>
+	</File>
+	<File name="Ghost.cpp" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3257" topLine="37" />
+		</Cursor>
+	</File>
+	<File name="PacmanGuy.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4056" topLine="182" />
+		</Cursor>
+	</File>
+	<File name="gameResources.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="96" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Block.h" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="219" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="PacmanGuy.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1450" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="MapAlgorithm.h" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="877" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="Block.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="479" topLine="17" />
+		</Cursor>
+	</File>
+	<File name="Ghost.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1060" topLine="29" />
+		</Cursor>
+	</File>
+	<File name="MapAlgorithm.cpp" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1245" topLine="34" />
+		</Cursor>
+	</File>
+	<EditorTabsLayout layout="05fca3f056b386f9002bb03b00000002=*0;Pacman:Main.cpp,1;Pacman:Block.cpp,2;Pacman:PacmanGuy.cpp,3;Pacman:gameResources.h,4;Pacman:PacmanGuy.h,5;Pacman:Ghost.h,6;Pacman:Ghost.cpp,7;Pacman:Block.h,8;Pacman:MapAlgorithm.cpp,9;Pacman:MapAlgorithm.h,*0;Pacman:Main.cpp,1;Pacman:Block.cpp,2;Pacman:PacmanGuy.cpp,3;Pacman:gameResources.h,4;Pacman:PacmanGuy.h,5;Pacman:Ghost.h,6;Pacman:Ghost.cpp,7;Pacman:Block.h,8;Pacman:MapAlgorithm.cpp@layout2|name=dummy;caption=;state=2098174;dir=3;layer=0;row=0;pos=0;prop=100000;bestw=682;besth=270;minw=682;minh=270;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=05fca3f056b386f9002bb03b00000002;caption=;state=2098172;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=200;besth=200;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(5,0,0)=202|" />
+</CodeBlocks_layout_file>
